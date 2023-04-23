@@ -1,0 +1,7 @@
+datatest==0.11.1
+Faker==17.0.0
+pandas==1.5.2
+psycopg2-binary==2.9.5
+pytest==7.2.0
+seaborn==0.12.2
+SQLAlchemy==1.4.45
